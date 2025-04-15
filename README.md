@@ -58,8 +58,8 @@ This repository contains a collection of fully completed microservices built wit
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/Shekar212/fully-completed-microservices.git
-   cd fully-completed-microservices
+   git clone https://github.com/Shekar212/Microservices-Java-Springboot.git
+   cd Microservices-Java-Springboot
    ```
 
 2. **Start Config Server**
